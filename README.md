@@ -1,4 +1,4 @@
-# mingyuKwak_201800430
+# mingyu_201800430
 
 ### Advanced Python Programming(Fri 123)
 
